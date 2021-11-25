@@ -1,0 +1,1 @@
+This project consists of making a simple recipe website using HTML without styling ( later on we will proceed to make stylistic changes).
